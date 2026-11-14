@@ -1,16 +1,14 @@
-## Hi there 👋
+# Khalid Abdulmahsen
 
-<!--
-**khalid7344/khalid7344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student interested in systems, networking and cloud engineering.
+I like building tools that read real-world data and make sense of it.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Stack |
+|---|---|---|
+| [**SDR Aircraft Tracker**](https://github.com/khalid7344/sdr-aircraft-tracker) | Decodes ADS-B aircraft broadcasts from an RTL-SDR and shows them in a terminal radar. | Go, RTL-SDR |
+
+## Skills
+
+Go · Linux · Git
